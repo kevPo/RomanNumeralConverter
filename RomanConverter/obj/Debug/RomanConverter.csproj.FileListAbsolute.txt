@@ -1,0 +1,14 @@
+C:\Users\kevin\AppData\Local\Temporary Projects\RomanConverter\bin\Debug\RomanConverter.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\RomanConverter\bin\Debug\RomanConverter.pdb
+C:\Users\kevin\AppData\Local\Temporary Projects\RomanConverter\obj\Debug\RomanConverter.csprojResolveAssemblyReference.cache
+C:\Users\kevin\AppData\Local\Temporary Projects\RomanConverter\obj\Debug\RomanConverter.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\RomanConverter\obj\Debug\RomanConverter.pdb
+C:\Personal\RomanConverter\RomanConverter\obj\Debug\RomanConverter.exe
+C:\Personal\RomanConverter\RomanConverter\obj\Debug\RomanConverter.pdb
+C:\Personal\RomanConverter\RomanConverter\bin\Debug\RomanConverter.exe
+C:\Personal\RomanConverter\RomanConverter\bin\Debug\RomanConverter.pdb
+C:\Personal\RomanConverter\RomanConverter\obj\Debug\RomanConverter.csprojResolveAssemblyReference.cache
+C:\Users\kevpo\Desktop\RomanConverter\RomanConverter\RomanConverter\obj\Debug\RomanConverter.exe
+C:\Users\kevpo\Desktop\RomanConverter\RomanConverter\RomanConverter\obj\Debug\RomanConverter.pdb
+C:\Users\kevpo\Desktop\RomanConverter\RomanConverter\RomanConverter\bin\Debug\RomanConverter.exe
+C:\Users\kevpo\Desktop\RomanConverter\RomanConverter\RomanConverter\bin\Debug\RomanConverter.pdb

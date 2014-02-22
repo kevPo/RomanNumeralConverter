@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConverter", "RomanConverter\RomanConverter.csproj", "{5122FFCD-33FA-4494-917E-91D66808C40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConverterTests", "RomanConverterTests\RomanConverterTests.csproj", "{F3A4A7EF-78A3-44E9-830B-6F1E2FE4DAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5122FFCD-33FA-4494-917E-91D66808C40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5122FFCD-33FA-4494-917E-91D66808C40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5122FFCD-33FA-4494-917E-91D66808C40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5122FFCD-33FA-4494-917E-91D66808C40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A4A7EF-78A3-44E9-830B-6F1E2FE4DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A4A7EF-78A3-44E9-830B-6F1E2FE4DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A4A7EF-78A3-44E9-830B-6F1E2FE4DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A4A7EF-78A3-44E9-830B-6F1E2FE4DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
